@@ -26,5 +26,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# 🚫 Ignore assets folder inside public
-
