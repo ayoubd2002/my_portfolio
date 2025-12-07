@@ -2,13 +2,13 @@
 export const portfolioData = {
   // Personal Information
   personal: {
-    name: "Your Name",
+    name: "Dellouche Ayoub",
     role: "Flutter & Backend Developer",
     description: "Building cross-platform mobile apps with Flutter and scalable APIs with FastAPI & Node.js",
     bio: "I'm a passionate mobile and backend developer specializing in Flutter for cross-platform mobile applications and FastAPI/Node.js for building robust, scalable backend services. I love creating seamless user experiences on mobile and designing efficient RESTful APIs. With expertise in both frontend mobile development and backend architecture, I deliver end-to-end solutions.",
-    email: "your.email@example.com",
+    email: "dellouchayoub@example.com",
     phone: "+1 (555) 123-4567",
-    location: "Your City, Country",
+    location: "mila, algeria",
     profileImage: "/assets/pr.jpg",
   },
 

@@ -27,4 +27,4 @@ dist-ssr
 *.sw?
 
 # 🚫 Ignore assets folder inside public
-public/assets/
+
